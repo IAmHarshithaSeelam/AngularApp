@@ -1,2 +1,2 @@
 # AngularApp
-https://github.com/IAmHarshithaSeelam/AngularApp/edit/main/README.md.git
+https://github.com/IAmHarshithaSeelam/AngularApp.git
